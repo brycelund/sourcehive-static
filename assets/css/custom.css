@@ -1,0 +1,19 @@
+/* 
+/* 
+/*  custom.css
+/*
+/*  If not using Gulp and Sass, add your custom CSS below then include it
+/*  in your page by adding a reference to assets/css/custom.css in the head of each page.
+/*
+*/
+
+.bigIcons {
+    font-size: 30px;
+}
+
+.topbaricon{
+    position: relative;
+    top: -3px;
+    padding-right: 5px;
+    height: 30px;
+}
